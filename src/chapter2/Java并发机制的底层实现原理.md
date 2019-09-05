@@ -108,3 +108,6 @@ Java中每一个对象都可以作为锁。具体表现为以下3种形式：
 1. synchronized指定临界区
 2. 在使用synchronized时，往往需要指定一个对象与之关联，修饰实例方法时关联this对象，修饰类方法时，关联this.class 此对象为monitor object
 3. Java语言种Object对象实现了wait、notify、notifyAll三个Native方法（JVM内部基于C++实现）来使线程进入阻塞状态以及唤醒、Java对象在内存中保存分为三部分对象头、实例数据、对齐充填，其中对象头中包括锁信息，所以Java中任意的对象都可以用作monitor object
+
+等待队列(本是Object里的方法，但影响了线程)
+![等待队列](../../resource/wait_notify.png)

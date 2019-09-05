@@ -7,3 +7,4 @@
 * https://www.jianshu.com/p/3d38cba67f8b
 * https://www.jianshu.com/p/7f8a873d479c
 * https://beanlam.me/syncprimitive/
+* https://www.cnblogs.com/hejing-swust/p/8038263.html

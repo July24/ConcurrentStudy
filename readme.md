@@ -11,3 +11,5 @@
 * https://www.jianshu.com/p/db5c964a61ee    （深入理解CAS（乐观锁））
 * https://www.cnblogs.com/ZoHy/p/11313155.html  （Java对象头与锁）
 * https://www.jianshu.com/p/36eedeb3f912    （浅谈偏向锁、轻量级锁、重量级锁）
+* https://baijiahao.baidu.com/s?id=1628346233476376109&wfr=spider&for=pc    （面试官：谈谈happens-before?）
+* https://www.cnblogs.com/ldq2016/p/9041856.html    （彻底理解ThreadLocal）
